@@ -3,3 +3,9 @@ justin:
   first_name: "Justin"
   last_name: "Chan"
   email: "justin.the.c@gmail.com"
+
+sean:
+  profile_name: "Day9"
+  first_name: "Sean"
+  last_name: "Plott"
+  email: "day9@day9.tv"
